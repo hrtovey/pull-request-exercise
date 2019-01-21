@@ -4,7 +4,7 @@ Exercise for collaborating on projects using pull requests.
 ## GitHub Accounts
 
   * Heather Tovey (instructor): [github.com/hrtovey](https://github.com/hrtovey)
-
+  * Linda Wallace: [github.com/lindaw1](https://github.com/lindaw1)
 
 
 ## Follow these steps to add your name and GitHub account to the above list:
