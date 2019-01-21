@@ -3,7 +3,8 @@ Exercise for collaborating on projects using pull requests.
 
 ## GitHub Accounts
 
-  * Heather Tovey (instructor): [github.com/hrtovey](https://github.com/hrtovey)
+ 
+  * Paruhang kandangwa (student): [github.com/idkman666](https://github.com/idkman666)
 
 
 
