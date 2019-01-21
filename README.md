@@ -4,6 +4,7 @@ Exercise for collaborating on projects using pull requests.
 ## GitHub Accounts
 
   * Heather Tovey (instructor): [github.com/hrtovey](https://github.com/hrtovey)
+  * Brent Ward (Student) : [github.com/DeepFriedWafflez](https://github.com/DeepFriedWafflez)
 
 
 
