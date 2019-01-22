@@ -21,7 +21,6 @@ Exercise for collaborating on projects using pull requests.
 
   * Fork this repository (make a personal copy into your GitHub account)
   * Clone your fork (download the forked repo to a folder on your computer)
-  * Create a `branch` off `master` and switch to it
   * Open this file in your text editor and add your name and GitHub account to the above list
   * Add and commit your changes
   * Push your changes
