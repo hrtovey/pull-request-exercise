@@ -5,6 +5,7 @@ Exercise for collaborating on projects using pull requests.
 
   * Heather Tovey (instructor): [github.com/hrtovey](https://github.com/hrtovey)
   * Colin Lee-Chee (student) : [[github.com/Pound4Pound](https://github.com/Pound4Pound)
+  * Tim Leslie (student): [github.com/tdleslie17](https://github.com/tdleslie17)
 
 
 
