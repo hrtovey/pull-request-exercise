@@ -4,6 +4,7 @@ Exercise for collaborating on projects using pull requests.
 ## GitHub Accounts
 
   * Heather Tovey (instructor): [github.com/hrtovey](https://github.com/hrtovey)
+  * mahda kazemian(student)
   * Paruhang kandangwa (student): [github.com/idkman666](https://github.com/idkman666)
   * Linda Wallace: [github.com/lindaw1](https://github.com/lindaw1)
   * Birju Nakrani (Student): [github.com/birjunakrani](https://github.com/birjunakrani)
