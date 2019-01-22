@@ -4,6 +4,7 @@ Exercise for collaborating on projects using pull requests.
 ## GitHub Accounts
 
   * Heather Tovey (instructor): [github.com/hrtovey](https://github.com/hrtovey)
+  * Hayley Mead [github.com/hmeh] 
   * Ibraheem Kolawole: [github.com/ibrokola](https://github.com/ibrokola)
   * iqoOopi (Tortoise Lover):[https://github.com/iqoOopi] 
   * Hoorasadat (student): [mirsaanei@gmail.com] (https://github.com/Hoorasadat)
