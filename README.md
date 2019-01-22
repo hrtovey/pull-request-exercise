@@ -4,6 +4,7 @@ Exercise for collaborating on projects using pull requests.
 ## GitHub Accounts
 
   * Heather Tovey (instructor): [github.com/hrtovey](https://github.com/hrtovey)
+  * Linda Wallace: [github.com/lindaw1](https://github.com/lindaw1)
   * Birju Nakrani (Student): [github.com/birjunakrani](https://github.com/birjunakrani)
   * Stuart Peters: [github.com/hrtovey](https://github.com/peters2136)
   * Louise Acosta: [github.com/louiseanacosta](https://github.com/louiseanacosta)
